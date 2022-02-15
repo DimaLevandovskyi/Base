@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+assets/custom.min.css
+assets/custom.js
+assets/custom.min.js
+assets/scripts.bundle.js
+assets/styles.css
+assets/scripts.bundle.js.LICENSE.txt

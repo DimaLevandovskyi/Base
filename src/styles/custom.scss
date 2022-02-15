@@ -1,0 +1,9 @@
+// GLOBAL
+@import './global/reset.scss';
+@import './global/variables.scss';
+@import './global/mixins.scss';
+@import './global/fonts.scss';
+
+body {
+  font-family: $helvetica;
+}
